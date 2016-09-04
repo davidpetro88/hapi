@@ -1,0 +1,23 @@
+{
+  "name": "hapijs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidpetro88/HapiJs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidpetro88/HapiJs/issues"
+  },
+  "homepage": "https://github.com/davidpetro88/HapiJs#readme",
+  "dependencies": {
+    "hapi": "^15.0.3",
+    "inert": "^4.0.2"
+  }
+}
